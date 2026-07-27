@@ -14,11 +14,11 @@ export default function App() {
 
       <Text>Open Digite o E-mail</Text>
 
-      <TextInput defaultValue="fulano@hotmail.com"></TextInput>
+      <TextInput placeholder="fulano@hotmail.com"></TextInput>
 
       <Text>Senha</Text>
 
-      <TextInput defaultValue="abc@123"></TextInput>
+      <TextInput placeholder="abc@123"></TextInput>
 
       <Button
         onPress={() => {}}
